@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvberg/wex-node-api.git"
+  },
   "author": "mvberg",
   "license": "UNLICENSED",
   "dependencies": {
